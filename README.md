@@ -122,7 +122,7 @@
 
 ## 개정 계획
 
-~~**초안 마무리**: ~금 23:59~~
+<del>초안 마무리: ~금 23:59</del>
 
 ### 1차 개정
 <span style="background-color:yellow">
